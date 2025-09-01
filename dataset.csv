@@ -1,0 +1,101 @@
+app_name,package_name,has_bank_keyword,permissions_count,file_size_kb,has_sms_permission,has_camera_permission,label
+FakeWallet,com.fakewallet,1,49,5998,1,1,fake
+MoneyFast,com.moneyfast,1,36,5998,1,1,fake
+ICICI Bank,com.icici.bank,1,22,7268,0,1,safe
+HDFC Official,com.hdfc.official,0,11,5302,0,0,safe
+FraudPay,com.fraudpay,1,61,5929,1,1,fake
+MyBankApp,com.mybankapp,1,16,4374,0,0,safe
+HDFC Official,com.hdfc.official,0,17,6366,0,0,safe
+PayTM,com.paytm,1,24,3176,0,0,safe
+FakeWallet,com.fakewallet,1,65,4575,1,1,fake
+MiniPay,com.minipay,1,51,4681,1,1,fake
+LoanScam,com.loanscam,1,45,4727,1,1,fake
+GooglePay,com.googlepay,1,16,5056,0,0,safe
+MiniPay,com.minipay,1,54,5365,1,1,fake
+MiniPay,com.minipay,1,63,4834,1,1,fake
+FraudPay,com.fraudpay,1,36,5089,1,1,fake
+MyBankApp,com.mybankapp,1,22,4218,0,0,safe
+Axis Bank,com.axis.bank,1,23,7656,0,0,safe
+FakeWallet,com.fakewallet,1,43,5912,1,1,fake
+MoneyFast,com.moneyfast,1,62,5107,1,1,fake
+MiniPay,com.minipay,1,38,5068,1,1,fake
+MoneyFast,com.moneyfast,1,53,6000,1,1,fake
+FakeWallet,com.fakewallet,1,56,4953,1,1,fake
+Axis Bank,com.axis.bank,1,28,4860,0,0,safe
+ICICI Bank,com.icici.bank,1,16,3197,0,0,safe
+MyBankApp,com.mybankapp,1,18,4589,0,1,safe
+GooglePay,com.googlepay,1,12,7831,0,1,safe
+MiniPay,com.minipay,1,52,5988,1,1,fake
+MyBankApp,com.mybankapp,1,12,6975,0,1,safe
+LoanScam,com.loanscam,1,38,4589,1,1,fake
+PaySafe,com.paysafe,1,46,5401,1,1,fake
+PaySafe,com.paysafe,1,35,5508,1,1,fake
+SBI Official,com.sbi.official,0,23,7465,0,1,safe
+MoneyFast,com.moneyfast,1,56,5008,1,1,fake
+MiniPay,com.minipay,1,36,4223,1,1,fake
+FraudPay,com.fraudpay,1,51,4127,1,1,fake
+Axis Bank,com.axis.bank,1,12,4098,0,0,safe
+FraudPay,com.fraudpay,1,58,5605,1,1,fake
+HDFC Official,com.hdfc.official,0,13,6918,0,0,safe
+MyBankApp,com.mybankapp,1,14,5851,0,1,safe
+FraudPay,com.fraudpay,1,45,4865,1,1,fake
+FakeWallet,com.fakewallet,1,53,4470,1,1,fake
+MyBankApp,com.mybankapp,1,13,5437,0,1,safe
+SBI Official,com.sbi.official,0,13,3287,0,0,safe
+SBI Official,com.sbi.official,0,28,5175,0,1,safe
+PayTM,com.paytm,1,27,6783,0,1,safe
+PayTM,com.paytm,1,25,7642,0,0,safe
+MoneyFast,com.moneyfast,1,69,5703,1,1,fake
+GooglePay,com.googlepay,1,29,3701,0,0,safe
+GooglePay,com.googlepay,1,16,5556,0,1,safe
+MoneyFast,com.moneyfast,1,47,4944,1,1,fake
+FraudPay,com.fraudpay,1,50,4591,1,1,fake
+FraudPay,com.fraudpay,1,39,4543,1,1,fake
+MyBankApp,com.mybankapp,1,28,4476,0,1,safe
+SBI Official,com.sbi.official,0,22,4648,0,0,safe
+GooglePay,com.googlepay,1,21,3720,0,1,safe
+FraudPay,com.fraudpay,1,37,4336,1,1,fake
+PayTM,com.paytm,1,14,6289,0,1,safe
+PaySafe,com.paysafe,1,58,5021,1,1,fake
+QuickLoan,com.quickloan,1,55,5971,1,1,fake
+MyBankApp,com.mybankapp,1,14,7809,0,1,safe
+FakeWallet,com.fakewallet,1,35,5393,1,1,fake
+Axis Bank,com.axis.bank,1,30,6148,0,0,safe
+MoneyFast,com.moneyfast,1,66,5527,1,1,fake
+FraudPay,com.fraudpay,1,66,5795,1,1,fake
+FakeWallet,com.fakewallet,1,47,5190,1,1,fake
+MoneyFast,com.moneyfast,1,57,5852,1,1,fake
+MoneyFast,com.moneyfast,1,43,5069,1,1,fake
+GooglePay,com.googlepay,1,26,5627,0,1,safe
+ICICI Bank,com.icici.bank,1,23,7915,0,0,safe
+MyBankApp,com.mybankapp,1,10,7408,0,0,safe
+QuickLoan,com.quickloan,1,55,5925,1,1,fake
+HDFC Official,com.hdfc.official,0,24,6047,0,1,safe
+GooglePay,com.googlepay,1,25,6167,0,1,safe
+MoneyFast,com.moneyfast,1,35,4115,1,1,fake
+PaySafe,com.paysafe,1,58,4417,1,1,fake
+MyBankApp,com.mybankapp,1,10,3578,0,1,safe
+Axis Bank,com.axis.bank,1,25,5788,0,0,safe
+MoneyFast,com.moneyfast,1,48,4458,1,1,fake
+LoanScam,com.loanscam,1,46,5423,1,1,fake
+MiniPay,com.minipay,1,48,5997,1,1,fake
+PayTM,com.paytm,1,23,6177,0,0,safe
+PayTM,com.paytm,1,25,4383,0,1,safe
+PaySafe,com.paysafe,1,69,4749,1,1,fake
+PayTM,com.paytm,1,24,7032,0,0,safe
+Axis Bank,com.axis.bank,1,14,3221,0,1,safe
+GooglePay,com.googlepay,1,14,3736,0,0,safe
+LoanScam,com.loanscam,1,58,5071,1,1,fake
+HDFC Official,com.hdfc.official,0,14,7784,0,1,safe
+LoanScam,com.loanscam,1,55,5149,1,1,fake
+PayTM,com.paytm,1,17,3772,0,0,safe
+SBI Official,com.sbi.official,0,27,5390,0,1,safe
+MyBankApp,com.mybankapp,1,23,7709,0,0,safe
+LoanScam,com.loanscam,1,45,5657,1,1,fake
+ICICI Bank,com.icici.bank,1,14,5583,0,1,safe
+FraudPay,com.fraudpay,1,63,4381,1,1,fake
+HDFC Official,com.hdfc.official,0,15,5954,0,0,safe
+MoneyFast,com.moneyfast,1,41,4320,1,1,fake
+FraudPay,com.fraudpay,1,65,4081,1,1,fake
+HDFC Official,com.hdfc.official,0,27,7513,0,0,safe
+SBI Official,com.sbi.official,0,16,3166,0,1,safe
